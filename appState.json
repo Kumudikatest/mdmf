@@ -1,0 +1,67 @@
+{
+  "EDITOR_STATE": {
+    "allProjectFiles": {
+      "0ac388ff-fde1-48af-a057-001e6f8e5232": {
+        "id": "0ac388ff-fde1-48af-a057-001e6f8e5232",
+        "parent": null,
+        "name": "mdmf.js",
+        "type": "JS_LAMBDA",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "mdmf.js",
+        "cursor": {
+          "lineNumber": 2,
+          "column": 5
+        },
+        "config": {
+          "runtime": "nodejs10.x",
+          "handler": "handler",
+          "timeout": 60,
+          "memory": 128,
+          "layers": []
+        },
+        "triggers": []
+      }
+    },
+    "openFiles": [
+      "0ac388ff-fde1-48af-a057-001e6f8e5232"
+    ],
+    "currentFileId": "0ac388ff-fde1-48af-a057-001e6f8e5232",
+    "resources": {},
+    "customTemplate": {
+      "dialect": null,
+      "definitions": null
+    },
+    "envVariables": [
+      {
+        "lambdaId": "all",
+        "varKey": "SIGMA_AWS_ACC_ID",
+        "varValue": null,
+        "shouldPersist": false,
+        "displayOnly": false,
+        "editable": false
+      }
+    ],
+    "packageJSON": {
+      "dependencies": {}
+    }
+  },
+  "PROJECT_META": {
+    "projectName": "mdmf",
+    "projectDescription": "",
+    "projectVersion": "1.0.0",
+    "projectRegion": "us-east-1",
+    "platform": "AWS",
+    "language": "nodejs",
+    "platformRegions": {},
+    "lastSave": 1584613466818
+  },
+  "VCS_STATE": {
+    "provider": "GitHub",
+    "repo": {
+      "name": "mdmf",
+      "url": "https://github.com/Kumudikatest/mdmf"
+    }
+  }
+}
